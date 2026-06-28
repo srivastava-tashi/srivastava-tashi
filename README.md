@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there I'm Tashi👋
+I am an aspiring Data Scientist passionate about Machine Learning and Deep Learning.
+I enjoy building impactful models that solve real-world problems by taking on challenging projects
+that push me to learn new technologies and improve my problem-solving skills.
 
-<!--
-**srivastava-tashi/srivastava-tashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📚 Currently Learning
+ - MLOps
+ - LLMs
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- **Languages:** Python, Microsoft SQL Server (MSSQL)
+- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn, TensorFlow, Keras, OpenCV, MediaPipe
+- **Tools:** Jupyter Notebook, Google Colab, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ Favourite Project
+[Indian Sign Language (ISL) Recognition](https://github.com/srivastava-tashi/indian-sign-language-word-recognition-opencv-mediapipe-lstm.git) using OpenCV, MediaPipe and Deep Learning
+
+
+
+
