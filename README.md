@@ -9,8 +9,8 @@ that push me to learn new technologies and improve my problem-solving skills.
 
 ### 💻 Tech Stack
 - **Languages:** Python, Microsoft SQL Server (MSSQL)
-- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn, TensorFlow, Keras, OpenCV, MediaPipe
-- **Machine Learning:** Regression, Classification, Clustering, Neural Networks, Time Series Forecasting
+- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn, TensorFlow, Keras, OpenCV, MediaPipe, NLTK
+- **Machine Learning:** Regression, Classification, Clustering, Neural Networks, Time Series Forecasting, NLP
 - **Tools:**  Power BI
 
 ### ⭐ Favourite Project
