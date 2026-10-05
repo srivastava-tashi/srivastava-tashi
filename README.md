@@ -3,10 +3,6 @@ I am an aspiring Data Scientist passionate about Machine Learning and Deep Learn
 I enjoy building impactful models that solve real-world problems by taking on challenging projects
 that push me to learn new technologies and improve my problem-solving skills.
 
-#### 📚 Currently Learning
- - MLOps
- - LLMs
-
 ### 💻 Tech Stack
 - **Languages:** Python, Microsoft SQL Server
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn, TensorFlow, Keras, OpenCV, MediaPipe
